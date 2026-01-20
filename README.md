@@ -1,5 +1,7 @@
 # Handle
 
+[Git Repo](https://github.com/adampatterson/handle)
+
 Handle is a child theme of [Axe](https://github.com/adampatterson/Axe)
 
 Opening `theme-helpers.php` and uncommenting the function

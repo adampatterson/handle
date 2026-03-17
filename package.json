@@ -1,11 +1,11 @@
 {
-  "name": "Handle",
+  "name": "handle",
   "version": "0.0.1",
   "author": "Adam Patterson",
-  "description": "Handle, Child theme for Axe Theme",
+  "description": "Handle, Axe child theme",
   "private": true,
   "bugs": {
-    "url": "https://github.com/adampatterson/Handle/issues"
+    "url": "https://github.com/adampatterson/handle/issues"
   },
   "directories": {
     "doc": "docs"
